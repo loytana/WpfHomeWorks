@@ -78,8 +78,7 @@ namespace Task10.ViewModels
                 StatusMessage = "Успешный вход! Добро пожаловать!";
             }
             else
-            {
-                //Меняется фон
+            {                
                 StatusMessage = "Введите учетные данные";
             }
         }
